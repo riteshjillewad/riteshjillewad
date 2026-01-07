@@ -3,10 +3,9 @@
 <img width="1010" height="250" alt="image" src="https://github.com/user-attachments/assets/579d46f4-ce93-4e20-919c-82431971b599" />
 
 
-
 ## 💫 About Me
 
-Hi, I’m Ritesh — a final-year Computer Science (AI & Data Science) undergraduate with a strong interest in **system programming, backend development, and low-level software design**.
+Hi, I’m Ritesh - a final-year Computer Science (AI & Data Science) undergraduate with a strong interest in **system programming, AI/ML engineering, and low-level software design**.
 
 🔹 **Systems & OS Focus**
 - Strong understanding of Linux system programming
@@ -18,6 +17,12 @@ Hi, I’m Ritesh — a final-year Computer Science (AI & Data Science) undergrad
 - Write clean, efficient, and optimized code
 - Strong foundation in data structures and algorithms
 
+🔹 **AI, Data Science & Applied ML**
+- Strong foundation in machine learning, data analysis, and model evaluation
+- Experience building end-to-end ML pipelines: data preprocessing → training → evaluation
+- Worked on applied ML projects like financial risk assessment and predictive systems
+- Comfortable translating data insights into usable software solutions
+
 🔹 **Projects & Practical Experience**
 - Built database-driven applications and custom system utilities
 - Implemented SQL-like engines, data persistence, and secure application logic
@@ -28,18 +33,16 @@ Hi, I’m Ritesh — a final-year Computer Science (AI & Data Science) undergrad
 - 🚀 Participant – **Smart India Hackathon 2024**
 - Comfortable working under deadlines and in team environments
 
-Currently seeking opportunities where I can apply my **system-level knowledge and backend skills** to build **scalable, secure, and high-performance software**, while growing as a software engineer.
-
-
+Currently seeking opportunities in **AI/ML engineering, or system-oriented software roles**, where I can combine **data-driven intelligence with strong system-level foundations** to build scalable and impactful software.
 
 ## 🔭 Currently Working On
 - Linux system programming & OS internals
 - Backend & database-oriented projects
+- Applied machine learning and data analysis projects
 - Improving DSA + low-level problem solving
-- Writing clean, well-documented C/C++ projects
+- Writing clean, well-documented C/C++ and Python code
+
   
-
-
 ## 💻 Tech Stack:
 
 ### 🧠 Core Programming
@@ -77,36 +80,3 @@ Currently seeking opportunities where I can apply my **system-level knowledge an
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white)  
-
-
-
-## 🚀 Highlighted Projects
-
-🔹 **Custom Java-Based DBMS**
-- Built an in-memory DBMS using LinkedList
-- Supports CRUD, aggregates, SQL-like queries
-- Data persistence via Java Serialization
-
-🔹 **Financial Risk Assessment System**
-- Hybrid ML model for predicting financial risk
-- Used real-world indicators with explainable output
-
-🔹 **Linux System Programming Utilities**
-- File handling, process control, IPC, memory concepts
-- Focused on low-level understanding and efficiency
-
-
-## 📫 Connect With Me
-- 💼 LinkedIn: *(add link)*
-- 📧 Email: *(optional)*
-- 📄 Resume: *(Google Drive / PDF link)*
-
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=riteshjillewad&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=riteshjillewad&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
