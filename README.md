@@ -5,33 +5,7 @@
 
 ## 💫 About Me
 
-Hi, I’m Ritesh - a final-year Computer Science (AI & Data Science) undergraduate with a strong interest in **system programming, AI/ML engineering, and low-level software design**.
-
-🔹 **Systems & OS Focus**
-- Strong understanding of Linux system programming
-- Hands-on with process management, file systems, memory management, and OS internals
-- Interested in performance, reliability, and system design
-
-🔹 **Programming & Problem Solving**
-- Primary languages: **C, C++, Java, Python**
-- Write clean, efficient, and optimized code
-- Strong foundation in data structures and algorithms
-
-🔹 **AI, Data Science & Applied ML**
-- Strong foundation in machine learning, data analysis, and model evaluation
-- Experience building end-to-end ML pipelines: data preprocessing → training → evaluation
-- Worked on applied ML projects like financial risk assessment and predictive systems
-- Comfortable translating data insights into usable software solutions
-
-🔹 **Projects & Practical Experience**
-- Built database-driven applications and custom system utilities
-- Implemented SQL-like engines, data persistence, and secure application logic
-- Worked on ML-based systems like financial risk assessment tools
-
-🔹 **Hackathons & Collaboration**
-- 🏆 Finalist – **MUFG Hackathon 2025**
-- 🚀 Participant – **Smart India Hackathon 2024**
-- Comfortable working under deadlines and in team environments
+I’m a final-year Computer Science (AI & Data Science) undergraduate with a strong interest in system programming, backend development, and applied machine learning. I work primarily with C, C++, Java, and Python, and have hands-on experience with Linux system programming, OS internals, and database-driven applications. Alongside systems work, I’ve built end-to-end ML solutions for real-world problems such as financial risk assessment, focusing on practical usability and performance. I enjoy writing clean, efficient code, solving low-level problems, and building reliable, scalable software through both system-level and data-driven approaches.
 
 Currently seeking opportunities in **AI/ML engineering, or system-oriented software roles**, where I can combine **data-driven intelligence with strong system-level foundations** to build scalable and impactful software.
 
