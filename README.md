@@ -54,3 +54,15 @@ Currently seeking opportunities in **AI/ML engineering, or system-oriented softw
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white)  
+
+
+---
+## **Hackathons & Collaboration** 
+- 🏆 Finalist – **MUFG Hackathon 2025**
+- - 🚀 Participant – **Smart India Hackathon 2024**
+
+---
+## 📫 Connect With Me 
+- 💼 LinkedIn: *https://www.linkedin.com/in/ritesh-jillewad-57a742271/*
+- 📧 Email: *riteshjillewad292@gmail.com*
+- 📄 Resume: *https://docs.google.com/document/d/1-aD_ri4NlkgSWyUsTmaLlmDthxJF_TE-4riKCyOsCcs/edit?usp=sharing*
