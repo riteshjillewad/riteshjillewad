@@ -65,4 +65,3 @@ Currently seeking opportunities in **AI/ML engineering, or system-oriented softw
 ## 📫 Connect With Me 
 - 💼 LinkedIn: *https://www.linkedin.com/in/ritesh-jillewad-57a742271/*
 - 📧 Email: *riteshjillewad292@gmail.com*
-- 📄 Resume: 
