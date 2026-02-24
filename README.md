@@ -1,6 +1,7 @@
 # 👋 Hi, I’m Ritesh Jillewad
 
-<img width="1010" height="250" alt="image" src="https://github.com/user-attachments/assets/579d46f4-ce93-4e20-919c-82431971b599" />
+![unnamed (1)](https://github.com/user-attachments/assets/3f1bbafa-f91a-4992-b359-f86dc1a60281)
+
 
 
 ## 💫 About Me
