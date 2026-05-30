@@ -56,7 +56,7 @@ Currently seeking opportunities in **AI/ML engineering, or system-oriented softw
 ---
 ## **Hackathons & Collaboration** 
 - 🏆 Finalist – **MUFG Hackathon 2025**
-- - 🚀 Participant – **Smart India Hackathon 2024**
+- 🚀 Participant – **Smart India Hackathon 2024**
 
 ---
 ## 📫 Connect With Me 
