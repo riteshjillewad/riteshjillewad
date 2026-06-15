@@ -9,8 +9,6 @@
 
 I’m a final-year Computer Science (AI & Data Science) undergraduate with a strong interest in system programming, backend development, and applied machine learning. I work primarily with C, C++, Java, and Python, and have hands-on experience with Linux system programming, OS internals, and database-driven applications. Alongside systems work, I’ve built end-to-end ML solutions for real-world problems such as financial risk assessment, focusing on practical usability and performance. I enjoy writing clean, efficient code, solving low-level problems, and building reliable, scalable software through both system-level and data-driven approaches.
 
-Currently seeking opportunities in **AI/ML engineering, or system-oriented software roles**, where I can combine **data-driven intelligence with strong system-level foundations** to build scalable and impactful software.
-
 ## 🔭 Currently Working On
 - Linux system programming & OS internals
 - Backend & database-oriented projects
